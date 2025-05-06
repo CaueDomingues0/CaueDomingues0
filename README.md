@@ -31,8 +31,8 @@ Um dos projetos que mais me orgulho de ter desenvolvido é uma **aplicação fro
 Adoraria conectar-me com outros entusiastas de dados, desenvolvedores e mentes curiosas! Se você tem um projeto interessante, uma ideia inovadora ou apenas quer trocar algumas figurinhas sobre o futuro da análise de dados e automação, não hesite em me contatar:
 
 *   **GitHub:** Você já está aqui! Sinta-se à vontade para explorar meus repositórios e contribuir.
-*   **LinkedIn:** [Seu Perfil no LinkedIn Aqui] - *Que tal adicionar o seu para expandirmos nossa rede?*
-*   **Email:** [seu.email@exemplo.com] - *Podemos trocar algumas ideias por lá também!*
+*   **LinkedIn:** https://www.linkedin.com/in/cau%C3%AA-domingues-277974327/ - *Que tal adicionar o seu para expandirmos nossa rede?*
+*   **Email:** [caueleal014@gmail.com] - *Podemos trocar algumas ideias por lá também!*
 
 ## 😄 Um Pouco Mais Sobre Mim...
 
