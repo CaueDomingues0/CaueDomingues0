@@ -41,7 +41,7 @@ Quando o terminal se fecha, gosto de [Seu Hobby/Interesse Fora da Tecnologia Aqu
 ---
 
 <div align="center">
-  *"A informação é o petróleo do século XXI, e a análise é o motor de combustão." - Peter Sondergaard*
+  *"A informação é o petróleo do século XXI, e a análise é o motor de combustão." - Peter Sondergaard (adaptado)*
 </div>
 
 <div align="center">
