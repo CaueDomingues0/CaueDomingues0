@@ -35,7 +35,6 @@ Atualmente, atuo na área de **Suporte, Infraestrutura e Redes** na **Webline Si
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caueleal014@gmail.com)
 
 ---
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CaueDomingues0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Cauê" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueDomingues0&layout=compact&theme=tokyonight" alt="Linguagens Top" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CaueDomingues0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CaueDomingues0&layout=compact&theme=tokyonight)
