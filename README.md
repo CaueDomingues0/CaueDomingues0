@@ -36,6 +36,6 @@ Atualmente, atuo na área de **Suporte, Infraestrutura e Redes** na **Webline Si
 
 ---
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CaueDomingues0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueDomingues0&layout=compact&theme=tokyonight"/>
 </div>
