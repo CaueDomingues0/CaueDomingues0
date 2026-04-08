@@ -1,28 +1,28 @@
 # Olá, eu sou o Cauê Leal Domingues! 👋
 
-### Analista de Sistemas | Desenvolvedor | Entusiasta de Hardware & Redes
+### Suporte de TI | Infraestrutura & Redes | Dev Front | Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente, sou Analista na **Webline Sistemas** e estudante de **Análise e Desenvolvimento de Sistemas**. Gosto de entender a tecnologia de forma completa: desde a montagem do hardware e a estruturação dos protocolos de rede até a interface front-end rodando na tela. 
-
-Sou o tipo de pessoa que prefere o conforto de casa, seja para focar na criação de novos projetos pessoais ou para passar o tempo jogando alguma coisa. 🎮
+Atualmente, atuo na área de **Suporte, Infraestrutura e Redes** na **Webline Sistemas** e sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
 ### 🛠️ Minha Caixa de Ferramentas
 
+**Infraestrutura, Redes & Suporte:**
+* 💻 Montagem, Setup e Manutenção de Hardware
+* 🌐 Configuração de Redes e Roteamento
+* ⚙️ Sistemas Operacionais e Troubleshooting
+* 📞 Suporte Técnico Especializado
+
 **Desenvolvimento:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-**Infraestrutura & Sistemas:**
-* 💻 Montagem, Setup e Manutenção de Hardware
-* 🌐 Protocolos de Rede e Roteamento
-* ⚙️ Sistemas Operacionais
 
 ---
 
 ### 💼 Trajetória Profissional e Acadêmica
 
-* **Atual:** Analista na **Webline Sistemas** (Desde Maio/2025)
+* **Atual:** Suporte de TI e Infraestrutura na **Webline Sistemas** (Desde Maio/2025)
 * **Anterior:** **Facimus** (Fev/2025 - Maio/2025)
 * **Estudos:** Graduação em Análise e Desenvolvimento de Sistemas
 
